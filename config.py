@@ -1,6 +1,6 @@
 # Configuración WiFi
-WIFI_SSID = 'INFINITUM4D7F'
-WIFI_PASSWORD = 'WwtV7qAUo7'
+WIFI_SSID = 'Aquí va el nombre de la red Wifi' #Remplazar el texto entre '' con el nombre de una red wifi a la que se tenga alcance
+WIFI_PASSWORD = '*********' #Remplazar la contraseña entre las '' con la contraseña real de la red Wifi a la que se tenga alcance
 
 # Configuración ThingSpeak MQTT
 THINGSPEAK_MQTT_CLIENT_ID = b"OQsYGSsSAA4gCC8hAz0CHQ0"
