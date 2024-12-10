@@ -1,2 +1,2 @@
 # Proyecto-Final
-Proyecto final para microprocesadores, Raspberry Pico W, protocolo MQTT a ThingSpeak, IoT
+Estación meteorológica con una Raspberry Pico W con los datos proporcionados por el sensor BME280, estos datos son impresos en una pantalla OLED 128x64, al mismo tiempo será calculada una probabilidad de lluvia que funciona dentro de la ciudad de México y el Estado de México. Para fializar mandará los datos con el protocolo MQTT a un canal de ThingSpeak dejando así un ejemplo funcional de la implementacion del IoT.
