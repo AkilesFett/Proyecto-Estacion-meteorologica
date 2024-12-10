@@ -15,6 +15,8 @@ THINGSPEAK_CHANNEL_ID = b'Aquí va el ID del canal que se quiere usar' #Remplaza
 
 Por último, cabe resaltar que los pines de mi config.py están configurados así por el armado físico de mi proyecto, pero de igual forma pueden ser cambiados en la siguiente linea dentro de config.py:
 
-
+# Pines I2C
+I2C_SCL_PIN = 5
+I2C_SDA_PIN = 4
 
 Al proporcionar correctamente estos datos el programa funcionará correctamente.
