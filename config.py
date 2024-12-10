@@ -3,10 +3,10 @@ WIFI_SSID = 'Aquí va el nombre de la red Wifi' #Remplazar el texto entre '' con
 WIFI_PASSWORD = '*********' #Remplazar la contraseña entre las '' con la contraseña real de la red Wifi a la que se tenga alcance
 
 # Configuración ThingSpeak MQTT
-THINGSPEAK_MQTT_CLIENT_ID = b"OQsYGSsSAA4gCC8hAz0CHQ0"
-THINGSPEAK_MQTT_USERNAME = b"OQsYGSsSAA4gCC8hAz0CHQ0"
-THINGSPEAK_MQTT_PASSWORD = b"x7MfYsVlVDKWkxCAyAm7OIvG"
-THINGSPEAK_CHANNEL_ID = b'2776160'
+THINGSPEAK_MQTT_CLIENT_ID = b"Aquí va el client id que proporciona thingspeak al agregar un dispositivo al canal" #Remplazar lo que está entre '' con los datos adecuados
+THINGSPEAK_MQTT_USERNAME = b"Aquí va el username que proporciona thingspeak al agregar un dispositivo al canal" #Remplazar lo que está entre '' con los datos adecuados
+THINGSPEAK_MQTT_PASSWORD = b"Aquí va la contraseña que proporciona thingspeak al agregar un dispositivo al canal" #Remplazar lo que está entre '' con los datos adecuados
+THINGSPEAK_CHANNEL_ID = b'Aquí va el ID del canal que se quiere usar' #Remplazar lo que está entre '' con los datos adecuados
 
 # Pines I2C
 I2C_SCL_PIN = 5
